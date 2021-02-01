@@ -1,0 +1,2 @@
+﻿export const SELECT_RACE = "SELECT_RACE";
+export const SELECT_PROFESSION = "SELECT_PROFESSION";
